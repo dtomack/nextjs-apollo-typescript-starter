@@ -25,7 +25,7 @@ If you are using Yarn, simply change into the `client` folder and run the follow
 ```bash
 yarn install
 
-yarn run dev
+yarn start
 ```
 
 If you are using NPM, then change into the the `client` folder and run the following two commands:
@@ -33,7 +33,7 @@ If you are using NPM, then change into the the `client` folder and run the follo
 ```bash
 npm install
 
-npm run dev
+npm start
 ```
 
 ## Access the Application
